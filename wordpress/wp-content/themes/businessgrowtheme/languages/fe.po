@@ -1,0 +1,236 @@
+# Copyright (C) 2013 BusinessGrow
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BusinessGrow 1.0\n"
+"Report-Msgid-Bugs-To: admin@inkthemes.comPOT-Creation-Date: 2012-01-11 "
+"12:47:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-11-18 17:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: French\n"
+
+#: define_template.php:2
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun article ne correspond à vos critères."
+
+#: define_template.php:3
+msgid "Gallery and Portfolio"
+msgstr "Galerie et portefeuille"
+
+#: define_template.php:4
+msgid "Portfolio"
+msgstr "portefeuille"
+
+#: define_template.php:5
+msgid "Search Filter Tags"
+msgstr "Filtre de recherche Mots clés"
+
+#: define_template.php:6
+msgid "Popular Filter Tags"
+msgstr "Filtre Balises populaires"
+
+#: define_template.php:7
+msgid "All Filter Tags"
+msgstr "Tous les Filtre Balises"
+
+#: define_template.php:8
+msgid "Edit Filter Tags"
+msgstr "Modifier le filtre Balises"
+
+#: define_template.php:9
+msgid "Update Filter Tags"
+msgstr "Mettre à jour Filtre Balises"
+
+#: define_template.php:10
+msgid "New Filter Tags Name"
+msgstr "Nouveau filtre Tags Nom"
+
+#: define_template.php:11
+msgid "Separate filter tags with commas"
+msgstr "Étiquettes de filtrage séparées par des virgules"
+
+#: define_template.php:12
+msgid "Add New Filter Tags"
+msgstr "Ajouter un nouveau filtre Balises"
+
+#: define_template.php:13
+msgid "Add or remove filter tags"
+msgstr "Ajouter ou supprimer des étiquettes de filtrage"
+
+#: define_template.php:14
+msgid "Choose from the most used filter tags"
+msgstr "Choisissez des étiquettes de filtrage les plus utilisés"
+
+#: define_template.php:15
+msgid "Filter"
+msgstr "Filtrez"
+
+#: define_template.php:16
+msgid "Categories"
+msgstr "catégories"
+
+#: define_template.php:17
+msgid "Archives"
+msgstr "Archives"
+
+#: define_template.php:18
+msgid "Title"
+msgstr "Titre"
+
+#: define_template.php:19
+msgid "Number of posts to show:"
+msgstr "Nombre de messages à afficher:"
+
+#: define_template.php:20
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "C'est un peu gênant, n'est-ce pas?"
+
+#: define_template.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne pouvons pas trouver ce que vous cherchez. Peut-être "
+"que la recherche peut aider"
+
+#: define_template.php:22
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de regarder dans les archives mensuelles. %1$s"
+
+#: define_template.php:23
+msgid "Read More"
+msgstr "En savoir plus"
+
+#: define_template.php:24
+msgid "Primary Widget Area"
+msgstr "Espace Widget primaire"
+
+#: define_template.php:25
+msgid "The primary widget area"
+msgstr "La zone du widget primaire"
+
+#: define_template.php:26
+msgid "Secondary Widget Area"
+msgstr "Zone de Widget secondaire"
+
+#: define_template.php:27
+msgid "The secondary widget area"
+msgstr "La zone du widget secondaire"
+
+#: define_template.php:28
+msgid "First Footer Widget Area"
+msgstr "Première zone d'Widget Footer"
+
+#: define_template.php:29
+msgid "The first footer widget area"
+msgstr "La première zone de widgets footer"
+
+#: define_template.php:30
+msgid "Second Footer Widget Area"
+msgstr "Deuxième zone de Widget Footer"
+
+#: define_template.php:31
+msgid "The second footer widget area"
+msgstr "La deuxième zone de Widget Footer"
+
+#: define_template.php:32
+msgid "Third Footer Widget Area"
+msgstr "Troisième domaine du Widget Footer"
+
+#: define_template.php:33
+msgid "The third footer widget area"
+msgstr "La troisième domaine du Widget Footer"
+
+#: define_template.php:34
+msgid "Fourth Footer Widget Area"
+msgstr "Quatrième Zone Widget Footer"
+
+#: define_template.php:35
+msgid "The fourth footer widget area"
+msgstr "Quatrième Zone Widget Footer"
+
+#: define_template.php:36
+msgid "Home"
+msgstr "Maison"
+
+#: define_template.php:37
+msgid "Most used categories"
+msgstr "Catégories les plus utilisées"
+
+#: define_template.php:38
+msgid "Bookmark the"
+msgstr "Marquer le"
+
+#: define_template.php:39
+msgid "permalink"
+msgstr "permalien"
+
+#: define_template.php:40
+msgid "Newer posts &rarr;"
+msgstr "Les nouveaux messages &rarr;"
+
+#: define_template.php:41
+msgid "&larr; Older posts"
+msgstr "&larr; Les seniors messages"
+
+#: define_template.php:42
+msgid "Nothing Found"
+msgstr "rien trouvé"
+
+#: define_template.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos critères de recherche. S'il vous plaît "
+"essayer de nouveau avec quelques mots clés différents."
+
+#: define_template.php:44
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour: %s"
+
+#: define_template.php:45
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#: define_template.php:46
+msgid "Author Archives: %s"
+msgstr "Archives de l'auteur: %s"
+
+#: define_template.php:47
+msgid "About %s"
+msgstr "sur %s"
+
+#: define_template.php:48
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: define_template.php:49
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles: %s"
+
+#: define_template.php:50
+msgid "Yearly Archives: %s"
+msgstr "Archives annuel: %s"
+
+#: define_template.php:51
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#: define_template.php:52
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: define_template.php:62
+msgid "Next Post &rarr;"
+msgstr "Prochaine Poster &rarr;"
+
+#: define_template.php:63
+msgid "&larr; Previous Post"
+msgstr "&larr; Précédent Poster"

@@ -1,0 +1,175 @@
+#menu li a:hover {
+	background: url(images/menubg-red.png) top repeat-x;
+	border-bottom: 3px solid #c83b24;
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li.current_page_item a {
+background: url(images/menubg-red.png) top repeat-x;
+border-bottom: 3px solid #c83b24;
+
+}
+.slider_text_container a  {
+	background: rgba(240,78,52,0.5);
+}
+.flex-control-paging li a.flex-active, .flex-control-paging li a:hover{
+  background: #f4674f;
+}
+.homepage_nav_title {
+	background: #ef7561;
+}
+.index_titles{
+	border-top: 1px solid #f07e6c;
+	border-bottom: 1px solid #ee7c69;
+}
+.rect_box {
+	background: #c6412b;
+	border-bottom:6px solid #c6412b;
+}
+.ch-item {
+	border:solid #a62611;
+	background: #f07e6c;
+}
+.ch-info .ch-info-back {
+	background: #f07e6c;
+}
+.thumb span {
+	background: rgba(199,55,31,0.59);
+}
+a.read-more{
+	color: #b2321d;
+}
+.comment-meta a:hover, #commentform p a:hover {
+color: #b2321d;
+}
+.posted_by a:hover {
+color: #b2321d;
+}
+.post_comment a:hover {
+color: #b2321d;
+}
+.post_content  a:hover{
+	color: #b2321d;
+}
+.gallery_tabs a:hover {
+	background: #c6412b;
+	border-bottom:2px solid #5c1206;
+}
+.gallery_tabs li.active a {
+	background:#c6412b;
+	border-bottom:2px solid #5c1206;
+}
+.gallery_tabs a{
+	background:#f4674f;
+	border-bottom:2px solid #681407;
+}
+.footer select {
+	-webkit-box-shadow: 0 3px 0 #5c1206, 0 -1px #681407 inset;
+	-moz-box-shadow: 0 3px 0 #5c1206, 0 -1px #681407 inset;
+	box-shadow: 0 3px 0 #5c1206, 0 -1px #681407 inset;
+	background: url(../../images/down_arrow_select.jpg) right no-repeat #c6412b;
+}
+
+.sidebar select {
+	-webkit-box-shadow: 0 3px 0 #5c1206, 0 -1px #681407 inset;
+	-moz-box-shadow: 0 3px 0 #5c1206, 0 -1px #681407 inset;
+	box-shadow: 0 3px 0 #5c1206, 0 -1px #681407i inset;
+	background: url(../../images/down_arrow_select.jpg) right no-repeat #c6412b;
+}
+#wp-calendar caption {
+	background: #c6412b;
+}
+#wp-calendar #today {
+	border: 1px solid #c6412b;
+	background: #c6412b;
+	background: -moz-radial-gradient(50% 50% 0deg,ellipse cover, #f4b9af, #c6412b);
+	background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 20, from(#f4b9af), to(#c6412b));
+}
+#wp-calendar a {    color: #fff }
+
+#wp-calendar tbody td:hover {
+	border: 1px solid #c6412b;
+	background: #c6412b;
+	background: -moz-radial-gradient(50% 50% 0deg,ellipse cover, #f4b9af, #c6412b);
+	background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 20, from(#f4b9af), to(#c6412b));
+}
+.sidebar li a:hover{
+	color: #c6412b;
+}
+
+.sidebar #search {
+	background: #c6412b;
+}
+.sidebar #searchsubmit {
+	background: #ee573f url('../../images/search_icon.png') no-repeat center;
+}
+.post #search {
+	background: #c6412b;
+}
+.post #searchsubmit {
+	background: #ee573f url('../../images/search_icon.png') no-repeat center;
+}
+.sidebar .tagcloud a:hover {
+color: #c6412b;
+border-bottom: 1px solid #c6412b;
+}
+
+.footer #searchsubmit {
+background: #ee573f url('../../images/search_icon.png') no-repeat center;
+}
+.paging li a {
+	border-bottom: solid #5c1206;
+	background: #f4674f;
+}
+.paging li a:hover{
+	background: #c6412b;
+}
+
+.paging .current{
+	background: #c6412b;
+}
+
+input[type="submit"]{
+	background:#f4674f;
+	border-bottom:4px solid #5c1206;
+}
+input[type="submit"]:hover{
+	background:#c6412b;
+}
+
+input,textarea
+{
+	border:2px solid #eb7d6b;
+}
+
+.contact-image-mail-icon{
+	background: url(images/mail_icon_red.png) no-repeat 0 0;
+	width: 16px;
+	height: 11px;
+	display:inline-block;
+}
+.contact-image-tele-icon{
+	background: url(images/tele_icon_red.png) no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+	display:inline-block;
+}
+.contact-image-bookmark-icon{
+	background: url(images/bookmark_icon_red.png) no-repeat 0 0;
+	width: 12px;
+	height: 18px;
+	display:inline-block;
+}
+.contact-image-globe-icon{
+	background: url(images/globe_icon_red.png) no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+	display:inline-block;
+}
+.all_post_link a span:after {
+    background: #EF7561;
+	}
+.all_post_link a:hover span {
+    background: #EF7561;
+	}
+.all_post_link a{
+    color: #EF7561;
+	}

@@ -1,0 +1,268 @@
+# Copyright (C) 2013 BusinessGrow
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BusinessGrow 1.0\n"
+"Report-Msgid-Bugs-To: admin@inkthemes.comPOT-Creation-Date: 2012-01-11 "
+"12:47:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-11-18 17:39+0530\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Inkthemes\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: Chinese\n"
+
+#: define_template.php:2
+msgid "Sorry, no posts matched your criteria."
+msgstr "很抱歉，没有职位符合您的标准。"
+
+#: define_template.php:3
+msgid "Gallery and Portfolio"
+msgstr "画廊和投资组合"
+
+#: define_template.php:4
+msgid "Portfolio"
+msgstr "投资组合"
+
+#: define_template.php:5
+msgid "Search Filter Tags"
+msgstr "搜索过滤器标签"
+
+#: define_template.php:6
+msgid "Popular Filter Tags"
+msgstr "受欢迎的过滤器标签"
+
+#: define_template.php:7
+msgid "All Filter Tags"
+msgstr "所有的过滤器标签"
+
+#: define_template.php:8
+msgid "Edit Filter Tags"
+msgstr "编辑筛选器标签"
+
+#: define_template.php:9
+msgid "Update Filter Tags"
+msgstr "更新过滤器标签"
+
+#: define_template.php:10
+msgid "New Filter Tags Name"
+msgstr "新的过滤器标签名称"
+
+#: define_template.php:11
+msgid "Separate filter tags with commas"
+msgstr "单独的过滤器标签用逗号"
+
+#: define_template.php:12
+msgid "Add New Filter Tags"
+msgstr "添加新的过滤器标签"
+
+#: define_template.php:13
+msgid "Add or remove filter tags"
+msgstr "添加或删除过滤标签"
+
+#: define_template.php:14
+msgid "Choose from the most used filter tags"
+msgstr "选择从最常用的过滤器标记"
+
+#: define_template.php:15
+msgid "Filter"
+msgstr "过滤"
+
+#: define_template.php:16
+msgid "Categories"
+msgstr "分类"
+
+#: define_template.php:17
+msgid "Archives"
+msgstr "档案"
+
+#: define_template.php:18
+msgid "Title"
+msgstr "标题"
+
+#: define_template.php:19
+msgid "Number of posts to show:"
+msgstr "号码显示的文章 :"
+
+#: define_template.php:20
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "这是有点尴尬的，是不是？"
+
+#: define_template.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "我们似乎无法找到你正在寻找什么。也许寻找可以提供帮助。"
+
+#: define_template.php:22
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "尝试寻找每月归档。 %1$s"
+
+#: define_template.php:23
+msgid "Read More"
+msgstr "阅读更多"
+
+#: define_template.php:24
+msgid "Primary Widget Area"
+msgstr "主要小工具区域"
+
+#: define_template.php:25
+msgid "The primary widget area"
+msgstr "主要部件区域"
+
+#: define_template.php:26
+msgid "Secondary Widget Area"
+msgstr "辅助小工具区域"
+
+#: define_template.php:27
+msgid "The secondary widget area"
+msgstr "辅助小工具区域"
+
+#: define_template.php:28
+msgid "First Footer Widget Area"
+msgstr "第一页脚小工具区域"
+
+#: define_template.php:29
+msgid "The first footer widget area"
+msgstr "第一个页脚部件区"
+
+#: define_template.php:30
+msgid "Second Footer Widget Area"
+msgstr "第二页脚部件区"
+
+#: define_template.php:31
+msgid "The second footer widget area"
+msgstr "第二页脚小工具区域"
+
+#: define_template.php:32
+msgid "Third Footer Widget Area"
+msgstr "第三页脚部件区"
+
+#: define_template.php:33
+msgid "The third footer widget area"
+msgstr "第三个页脚部件区"
+
+#: define_template.php:34
+msgid "Fourth Footer Widget Area"
+msgstr "第四页脚部件区"
+
+#: define_template.php:35
+msgid "The fourth footer widget area"
+msgstr "第四个页脚小工具区域"
+
+#: define_template.php:36
+msgid "Home"
+msgstr "家"
+
+#: define_template.php:37
+msgid "Most used categories"
+msgstr "最常用的类别"
+
+#: define_template.php:38
+msgid "Bookmark the"
+msgstr "书签"
+
+#: define_template.php:39
+msgid "permalink"
+msgstr "一篇"
+
+#: define_template.php:40
+msgid "Newer posts &rarr;"
+msgstr "较新的文章 &rarr;"
+
+#: define_template.php:41
+msgid "&larr; Older posts"
+msgstr "&larr; 较早的帖子"
+
+#: define_template.php:42
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: define_template.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件。请再次尝试一些不同的关键字。"
+
+#: define_template.php:44
+msgid "Search Results for: %s"
+msgstr "搜索结果： %s"
+
+#: define_template.php:45
+msgid "Tag Archives: %s"
+msgstr "标记档案： %s"
+
+#: define_template.php:46
+msgid "Author Archives: %s"
+msgstr "作者档案： %s"
+
+#: define_template.php:47
+msgid "About %s"
+msgstr "关于 %s"
+
+#: define_template.php:48
+msgid "Daily Archives: %s"
+msgstr "每日档案： %s"
+
+#: define_template.php:49
+msgid "Monthly Archives: %s"
+msgstr "每月档案： %s"
+
+#: define_template.php:50
+msgid "Yearly Archives: %s"
+msgstr "每年档案： %s"
+
+#: define_template.php:51
+msgid "Blog Archives"
+msgstr "博客存档"
+
+#: define_template.php:52
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: define_template.php:53
+msgid "Return to %s"
+msgstr "返回 %s"
+
+#: define_template.php:54
+msgid "By %2$s"
+msgstr "由 %2$s"
+
+#: define_template.php:55
+msgid "View all posts by %s"
+msgstr "查看所有帖子 %s"
+
+#: define_template.php:56
+msgid "Published %2$s"
+msgstr "发布时间 %2$s"
+
+#: define_template.php:57
+msgid "Full size is %s pixels"
+msgstr "全尺寸大小是 %s 像素"
+
+#: define_template.php:58
+msgid "Link to full-size image"
+msgstr "链接到全尺寸的图像"
+
+#: define_template.php:59
+msgid "Edit"
+msgstr "编辑"
+
+#: define_template.php:60
+msgid "Pages:"
+msgstr "页:"
+
+#: define_template.php:61
+msgid "Category Archives: %s"
+msgstr "分类存档： %s"
+
+#: define_template.php:62
+msgid "Next Post &rarr;"
+msgstr "下一篇文章  &rarr;"
+
+#: define_template.php:63
+msgid "&larr; Previous Post"
+msgstr "&larr; 以前的帖子"

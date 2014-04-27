@@ -1,0 +1,75 @@
+== Changelog ==
+
+= Theme Name: Business Grow Theme Pro=
+
+= Version: 1.1.5=
+1.Menu overlapping slider issue fixed.
+2.Contact form dark-green color css issue fixed.
+
+= Version: 1.1.4=
+1.Social icon linkedin, vimeo added header and footer section.
+2. Ipad slider and menu issue fixed.
+
+
+= Version: 1.1.3=
+1.Post image alignment issue fixed.
+
+= Version: 1.1.2=
+1.All Post link added to recent blog section on home page.
+
+= Version: 1.1.1=
+1.Menu improved. Onepage-menu added to fallback-cb to show on all pages, posts and other templates by default.
+2.Homepage recent blog section improved. Content image is shown as thumbnail if featured image is not available.
+3.Gallery and Portfolio section improved. Content image is shown as thumbnail if featured image is not available.
+4.Post with no image issue in loop fixed.
+
+= Version: 1.1.0=
+1.Fixed order of the posts issue on homepage recent blog section. Order by ASC added.
+2.Content image not showing on homepage blog section  issue fixed.
+
+= Version: 1.0.9=
+1.Homepage Sections made optional, option for on/off added to theme options, frontpage updated.
+2.Footer Widgets improved style updated.
+
+= Version: 1.0.8=
+1.Four additional language added to theme.
+2.Languages files for German, Chinese Simplified, French and Spanish added to language file.
+
+= Version: 1.0.7=
+1.Google reCaptcha added to all the contact form, contact template and homepage contact section.
+2.Recaptcha On/OFf feature added to contact in theme-option.
+
+= Version: 1.0.6=
+1.Formget contact form is made optional. You can use default wordpress contact form now.
+2.Additional contact page template added.
+
+= Version: 1.0.5=
+1.Hexagon Gallery portfolio post link added on image hover.
+2.Added custom post type template.
+3.Number of images in homepage hexagon gallery/portfolio set to unlimited.
+4.Post without heading css fixed.
+5.Language file updated.
+
+= Version: 1.0.4=
+1.Fixed Tag.php, Category.php, Search.php, Author.php, Archives.php.
+2.Fixed Language file.
+3.Responsive issue fixed.
+4.Reduced theme size.
+5.Improved page.php
+
+= Version: 1.0.3=
+1.Slider responsive issue fixed.
+2.Slider autoslide issue fixed.
+3.Featured image responsive issue fixed.
+
+= Version: 1.0.2=
+1.Homepage hexagonal gallery fixed.
+
+= Version: 1.0.1=
+1.Update and fixed homepage menu scroll.
+2.Social icons hover effect in footer updated.
+3.404 page updated to a cleaner layout.
+4.Optional hyperlink added to headings in 4 column featured area;
+
+= Version: 1.0 =
+* * Business Grow Theme is created on 22/10/2013.

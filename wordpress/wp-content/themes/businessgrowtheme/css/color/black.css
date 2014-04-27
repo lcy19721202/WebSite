@@ -1,0 +1,183 @@
+#menu li a:hover {
+	background: url(images/menubg-black.png) top repeat-x;
+	border-bottom: 3px solid #000;
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li.current_page_item a {
+background: url(images/menubg-blacks.png) top repeat-x;
+border-bottom: 3px solid #000;
+}
+.slider_text_container a {
+	background: rgba(97,97,97,0.5);
+}
+.flex-control-paging li a.flex-active, .flex-control-paging li a:hover {
+  background: #8b8b8b;
+}
+.homepage_nav_title {
+	background: #717171;
+}
+.index_titles{
+	border-top: 1px solid #7b7b7b;
+	border-bottom: 1px solid #7b7b7b;
+}
+.rect_box {
+	background: #484848;
+	border-bottom:6px solid #bcbcbc;
+}
+.ch-item {
+	border:solid #343434;
+	background: #bcbcbc;
+}
+.ch-info .ch-info-back {
+	background: #484848;
+}
+.thumb span {
+	background: rgba(134,134,134,0.59);
+}
+.post_content a{
+	color: #000;
+}
+.comment-meta a:hover, #commentform p a:hover {
+color: #000;
+}
+.posted_by a:hover {
+color: #000;
+}
+.post_content  a:hover{
+	color: #000;
+}
+.gallery_tabs a:hover {
+	background: #6e6e6e;
+	border-bottom:2px solid #000;
+}
+.gallery_tabs li.active a {
+	background:#6e6e6e;
+	border-bottom:2px solid #000;
+}
+.gallery_tabs a{
+	background:#a8a8a8;
+	border-bottom:2px solid #515151;
+}
+.footer select {
+	-webkit-box-shadow: 0 3px 0 #4A5457, 0 -1px #565C5E inset;
+	-moz-box-shadow: 0 3px 0 #4A5457, 0 -1px #565C5E inset;
+	box-shadow: 0 3px 0 #4A5457, 0 -1px #565C5E inset;
+	background: url(../../images/down_arrow_select.jpg) right no-repeat #A3AAAC;
+}
+
+.sidebar select {
+	-webkit-box-shadow: 0 3px 0 #4A5457, 0 -1px #565C5E inset;
+	-moz-box-shadow: 0 3px 0 #4A5457, 0 -1px #565C5E inset;
+	box-shadow: 0 3px 0 #4A5457, 0 -1px #565C5E inset;
+	background: url(../../images/down_arrow_select.jpg) right no-repeat #A3AAAC;
+}
+#wp-calendar caption {
+	background: #706f6f;
+}
+#wp-calendar #today {
+	border: 1px solid #706f6f;
+	background: #706f6f;
+	background: -moz-radial-gradient(50% 50% 0deg,ellipse cover, #AFA7A7, #706f6f);
+	background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 20, from(#AFA7A7), to(#706f6f));
+}
+#wp-calendar a {    color: #fff }
+#wp-calendar tbody td.pad {
+background: #f5f5f5;
+background: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#ececec));
+background: -moz-linear-gradient(top, #f5f5f5, #ececec);
+}
+#wp-calendar tbody td:hover {
+	border: 1px solid #706f6f;
+	background: #706f6f;
+	background: -moz-radial-gradient(50% 50% 0deg,ellipse cover, #AFA7A7, #706f6f);
+	background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 20, from(#AFA7A7), to(#706f6f));
+}
+.sidebar li a:hover{
+	color: #000;
+}
+
+.sidebar #search {
+	background: #868686;
+}
+.sidebar #searchsubmit {
+	background: #bcbcbc url('../../images/search_icon.png') no-repeat center;
+}
+.post #search {
+	background: #868686;
+}
+.post #searchsubmit {
+	background: #bcbcbc url('../../images/search_icon.png') no-repeat center;
+}
+.sidebar .tagcloud a:hover {
+color: #000;
+border-bottom: 1px solid #000;
+}
+
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li.current_page_item a {
+color: #333;
+text-shadow: 0 1px 0 #fff;
+background: url(images/menubg-black.png) top repeat-x;
+border-bottom: 3px solid #000;
+-webkit-animation: all 0.7s ease-in-out;
+}
+
+.footer #searchsubmit {
+background: #bcbcbc url('../../images/search_icon.png') no-repeat center;
+}
+.paging li a {
+	border-bottom: solid #000;
+	background: #a8a8a8;
+}
+.paging li a:hover{
+	background: #6e6e6e;
+}
+
+.paging .current{
+	background: #6e6e6e;
+}
+
+input[type="submit"]{
+	background:#646464;
+	border-bottom:4px solid #1f1f1f;
+}
+input[type="submit"]:hover{
+	background:#323232;
+}
+
+input,textarea
+{
+	border:2px solid #323232;
+}
+
+.contact-image-mail-icon{
+	background: url(images/mail_icon_black.png) no-repeat 0 0;
+	width: 16px;
+	height: 11px;
+	display:inline-block;
+}
+.contact-image-tele-icon{
+	background: url(images/tele_icon_black.png) no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+	display:inline-block;
+}
+.contact-image-bookmark-icon{
+	background: url(images/bookmark_icon_black.png) no-repeat 0 0;
+	width: 12px;
+	height: 18px;
+	display:inline-block;
+}
+.contact-image-globe-icon{
+	background: url(images/globe_icon_black.png) no-repeat 0 0;
+	width: 16px;
+	height: 16px;
+	display:inline-block;
+}
+.all_post_link a span:after {
+    background: #7b7b7b;
+	}
+.all_post_link a:hover span {
+    background: #7b7b7b;
+	}
+.all_post_link a{
+    color: #7b7b7b;
+	}

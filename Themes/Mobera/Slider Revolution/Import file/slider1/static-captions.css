@@ -1,0 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,100);
+
+.tp-caption a {
+color:#ff7302;
+text-shadow:none;
+-webkit-transition:all 0.2s ease-out;
+-moz-transition:all 0.2s ease-out;
+-o-transition:all 0.2s ease-out;
+-ms-transition:all 0.2s ease-out;
+}
+
+.tp-caption a:hover {
+color:#ffa902;
+}
+
+.lato_white_lowercase {
+  position:absolute;
+  color:#fff;
+  text-shadow:none;
+  font-weight:300;
+  font-size:48px;
+  line-height:52px;
+  font-family:Lato;
+  padding:2px 4px;
+  margin:0px;
+  border-width:0px;
+  border-style:none;
+  background-color:transparent;
+  white-space:nowrap;
+}
+
+.lato_white_uppercase {
+  position:absolute;
+  color:#fff;
+  text-shadow: none;
+  font-weight:400;
+  font-size:42px;
+  line-height:48px;
+  font-family:Lato;
+  padding:2px 4px;
+  margin:0px;
+  border-width:0px;
+  border-style:none;
+  background-color:transparent;
+  text-transformation: uppercase;
+  white-space:nowrap;
+}

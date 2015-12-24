@@ -1,0 +1,260 @@
+/*!
+ * Responsive
+*/
+
+@-ms-viewport  {
+	width: device-width;
+}
+
+@media (max-width: 767px) {
+	.pricing-table .pricing-content .pricing-price {
+		font-size: 20px;
+	}
+	.page-wrapper .member-position {
+		word-break: break-word;
+		font-size: 90% !important;
+	}
+	.page-wrapper .member-desc {
+		word-break: break-word;
+	}
+	.main-content .widget_wysija {
+		width: 100%;
+	}
+	.widget_wysija_cont .wysija-submit {
+		padding: 0 10px;
+	}
+	.featured_apps_container .app-content {
+		width: 50%;
+	}
+	.featured_apps_container .app-content-overlay {
+		left: 15px;
+	}
+	.teaser_grid_container .isotope-item {
+		background: none;
+	}
+	.sidebar-right .wysijasubscription.widget input[type=text] {
+		width: 100%;
+		margin-bottom: 5px;
+		border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+	}
+	.sidebar-right .widget_wysija_cont .wysija-submit {
+		width: 100%;
+		border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+	}
+	.sidebar-right .wysijasubscription.widget p {
+		width: 100%;
+	}
+	.mobera-twitter.widget #twitter_share_a,
+	.mobera-twitter.widget #twitter_retweet_a,
+	.mobera-twitter.widget .twitter_share,
+	.mobera-twitter.widget .twitter_retweet,
+	.twitter.widget .twitter_share,
+	.mobera-twitter.widget .twitter_retweet {
+		display: none;
+	}
+
+	/* Menu */
+
+	.mp-menu ul {
+		margin: 0;
+		border: 0;
+		border-top: 1px solid #e5e5e5;
+	}
+
+	.mp-menu .nav li.current-menu-ancestor > a,
+	.mp-menu .nav li.current-menu-parent > a,
+	.mp-menu .nav li.current-menu-item > a,
+	.mp-menu .nav li.current_page_item > a,
+	.mp-menu .nav li.current-menu-parent > a,
+	.mp-menu .nav li.dropdown:hover > a,
+	.mp-menu .current-menu-item a,
+	.mp-menu ul li a:hover,
+	.mp-level > ul > li:first-child > a:hover {
+		width: 100%;
+	}
+
+	.mp-level ul > li:last-child > a:hover {
+		border-radius: 0;
+		-moz-border-radius: 0;
+		-webkit-border-radius: 0;
+	}
+
+	.mp-pusher::after,
+	.mp-level::after,
+	.mp-level::before,
+	.mp-pusher::after,
+	.mp-level::after,
+	.mp-pusher.mp-pushed::after,
+	.mp-level.mp-level-overlay::after,
+	.menu-search,
+	.mp-menu .icon-arrow-left > a:before,
+	.menu-title,
+	.mp-back {
+		display: none;
+	}
+
+	.mp-menu {
+		position: relative;
+		width: 100%;
+		transform: none !important;
+		-webkit-transform: none !important;
+		-moz-transform: none !important;
+		background: #fff;
+		z-index: 100;
+	}
+
+	.mp-level {
+		position: relative;
+		padding-left: 15px;
+		transform: none !important;
+		-webkit-transform: none !important;
+		-moz-transform: none !important;
+	}
+
+	.mp-pusher {
+		transform: none !important;
+		-webkit-transform: none !important;
+		-moz-transform: none !important;
+	}
+
+	.mp-menu > .mp-level {
+		padding-left: 0;
+	}
+
+	.menu-item {
+		background: #fff;
+	}
+
+	.social-container {
+		margin: 10% 0 0 17px;
+	}
+
+	.social-container .contact-info {
+		width: 100%;
+	}
+	.social-container .social-icons {
+		margin-bottom: 100px;
+		height: 100%;
+	}
+	.menu-trigger-container {
+		position: absolute;
+		top: 86px !important;
+		left: auto;
+		right: 10px;
+	}
+	.menu-container {
+		overflow: hidden;
+		height: 133px;
+	}
+	#comments textarea,
+	#comments input[type=text],
+	#comments input[type="password"] {
+		width: 100%;
+	}
+
+	#comments textarea {
+		width: 100%;
+	}
+
+	.wpb_text_column img.alignleft,
+	.wpb_text_column img.alignright,
+	.wpb_text_column img.alignnone {
+		margin-bottom: 30px;
+	}
+	.ac-device nav {
+		display: none;
+	}
+	.ac-device {
+		margin-top: 30px;
+	}
+	.store_links {
+		width: 100%;
+		top: 0;
+		position: relative;
+		padding: 10px 10px 0 10px;
+		text-align: center;
+	}
+	.store_links a {
+		display: block !important;
+	}
+	.ac-wrapper h2 {
+		top: 0;
+		width: 100%;
+		position: relative;
+		text-align: center;
+		padding: 0;
+	}
+	.ac-wrapper h2 span {
+		display: inline-block;
+		font-weight: 300;
+		text-align: center;
+	}
+	.ac-device {
+		height: auto;
+		padding-bottom: 150px;
+	}
+	.ac-device .ac-description {
+		position: relative;
+		top: 150px;
+		left: -280px;
+	}
+	.ac-device .ac-title {
+		position: relative;
+		top: 0;
+		margin-left: 0px;
+		margin-bottom: 20px;
+	}
+	.ac-device .description {
+		position: relative;
+		top: 0;
+		margin-left: 0px;
+	}
+	.main-content .widget_wysija_cont input[type=text] {
+		border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		margin-bottom: 10px;
+	}
+	.main-content .widget_wysija_cont .wysija-submit {
+		width: 78%;
+		padding: 0;
+		border-radius: 4px;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+	}
+
+}
+
+@media (max-width: 480px) {
+	.pricing-table .pricing-content .pricing-price {
+		font-size: 30px;
+	}
+	.featured_apps_container .app-content {
+		width: 100%;
+	}
+	.wpcf7 textarea,
+	.wpcf7 input[type=text],
+	.wpcf7 input[type=email],
+	.wpcf7 input[type="password"] {
+		width: 100%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	.featured_apps_container .app-content {
+		width: 33%;
+	}
+	.sidebar-right .wysijasubscription.widget p {
+		width: 48%;
+	}
+}
+
+@media (min-width: 1200px) {
+	.sidebar-right .wysijasubscription.widget p {
+		width: 65%;
+	}
+}

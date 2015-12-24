@@ -1,0 +1,8 @@
+em {
+	font: 13px 'andale mono', 'lucida console', monospace;
+	font-style: italic;
+}
+
+#documenter_sidebar #documenter_logo {
+	background-size: 166px 35px;
+}
